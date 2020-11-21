@@ -1,3 +1,7 @@
+No longer maintained.
+
+---
+
 # BioHub
 
 This is just another frontend to the features provided by ZenHub for GitHub. It aims to be more neatly arranged and fixes some non-available features.
